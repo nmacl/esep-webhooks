@@ -1,0 +1,17 @@
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Debug/net8.0/EsepWebhook.deps.json
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Debug/net8.0/EsepWebhook.runtimeconfig.json
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Debug/net8.0/EsepWebhook.dll
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Debug/net8.0/EsepWebhook.pdb
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Debug/net8.0/Amazon.Lambda.Core.dll
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Debug/net8.0/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Debug/net8.0/EsepWebhook.csproj.AssemblyReference.cache
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Debug/net8.0/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Debug/net8.0/EsepWebhook.AssemblyInfoInputs.cache
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Debug/net8.0/EsepWebhook.AssemblyInfo.cs
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Debug/net8.0/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Debug/net8.0/EsepWebh.2DAAD0C6.Up2Date
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Debug/net8.0/EsepWebhook.dll
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Debug/net8.0/refint/EsepWebhook.dll
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Debug/net8.0/EsepWebhook.pdb
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Debug/net8.0/EsepWebhook.genruntimeconfig.cache
+/Users/nolanmaclear/Desktop/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Debug/net8.0/ref/EsepWebhook.dll
